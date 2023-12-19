@@ -49,3 +49,16 @@ Here is the deployed link of the project: https://6581ef76254f0453efb870d1--coru
 2. DOB (*Type: Date*)
 3. Email(*Type:String*) 
 4. Batch (*Type: String*)
+
+![Screenshot from 2023-12-20 01-24-35](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/d26ad0c2-786f-4ffc-9217-b3d179af6ebe)
+
+![Screenshot from 2023-12-20 01-26-40](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/0b14120e-8214-4525-9e00-ef1d4a6d34b8)
+
+![Screenshot from 2023-12-20 01-27-21](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/9332aeb6-1966-44c5-a7b0-8c0ee5ef4eff)
+
+![Screenshot from 2023-12-20 01-27-39](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/d67f79a1-1ddd-45b7-8d39-af4b91ec70c1)
+
+![Screenshot from 2023-12-20 01-28-38](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/ee4e5e46-c121-49b8-a6d7-46ca16185340)
+
+![photo1702965160](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/70974dc9-3f9a-4f20-9988-2b48738c2c5c)
+
