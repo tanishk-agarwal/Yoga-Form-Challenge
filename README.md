@@ -59,6 +59,12 @@ Here is the deployed link of the project: https://6581ef76254f0453efb870d1--coru
 **Update Branch**
 ![Screenshot from 2023-12-20 01-27-21](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/9332aeb6-1966-44c5-a7b0-8c0ee5ef4eff)
 
-**Database**
-![photo1702965160](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/70974dc9-3f9a-4f20-9988-2b48738c2c5c)
+**User Database**
 
+![photo1703016531](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/3fe5b6d5-3884-42c9-9581-5825e734f68b)
+**Registration Database**
+
+![photo1703016531 (1)](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/d384a63e-a4f1-460e-bb1e-6271c375f8da)
+**Payment Database**
+
+![photo1703016531 (2)](https://github.com/tanishk-agarwal/Yoga-Form-Challenge/assets/88491381/c5cf2c32-8086-4fbb-8e2b-6e89862ba629)
