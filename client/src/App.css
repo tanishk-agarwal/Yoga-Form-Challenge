@@ -1,0 +1,39 @@
+/* App.css */
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+.header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+.body-container {
+  display: flex;
+  padding: 20px;
+}
+
+.instructions {
+  flex: 1;
+  margin-right: 20px;
+}
+
+.form-container {
+  flex: 1;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.payment-button {
+  background-color: #4CAF50;
+  color: white;
+  margin-right: 10px;
+}
+
+.submit-button {
+  background-color: #008CBA;
+  color: white;
+  margin-top: 10px;
+}

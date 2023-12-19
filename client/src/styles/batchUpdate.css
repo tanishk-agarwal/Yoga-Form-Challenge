@@ -1,0 +1,51 @@
+/* BatchUpdateForm.css */
+
+.batch-update-form {
+    width: 300px;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .batch-update-form h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .batch-update-form form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .batch-update-form label {
+    margin-bottom: 10px;
+  }
+  
+  .batch-update-form input,
+  .batch-update-form select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+  
+  .batch-update-form button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .batch-update-form button:hover {
+    background-color: #45a049;
+  }
+  
+  .batch-update-form p {
+    margin-top: 10px;
+    color: #333;
+  }
+  

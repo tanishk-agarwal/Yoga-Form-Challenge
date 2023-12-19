@@ -1,0 +1,27 @@
+/* Header.css */
+header {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+  
+header h1 {
+    margin: 0;
+}
+
+
+.update{
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+  
+.update:hover{
+    background-color: #45a049;
+}
+  
