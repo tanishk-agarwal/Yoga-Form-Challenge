@@ -40,13 +40,12 @@ Here is the deployed link of the project: https://6581ef76254f0453efb870d1--coru
 
 ## Database Design
 
-**Database Name:** `yogaDB`
+**Database Name:** `cluster0`
 
-**Collection Name:** `yogausers`
+**Collection Name:** `users`
 
 **Attributes:**
 1. Full Name (*Type: String*)
-2. Age (*Type: Number*)
-3. Date (*Type: Date*)
-4. Amount (*Type: Number*)
-5. Batch (*Type: String*)
+2. DOB (*Type: Date*)
+3. Email(*Type:String*) 
+4. Batch (*Type: String*)
